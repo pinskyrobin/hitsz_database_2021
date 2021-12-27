@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/extmem.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+extmem.h
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/extmem.h
+
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/extmem.h
+

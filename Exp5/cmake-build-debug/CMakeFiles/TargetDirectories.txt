@@ -1,0 +1,4 @@
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/CMakeFiles/exec.dir
+/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/CMakeFiles/extmem.dir

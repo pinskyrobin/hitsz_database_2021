@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Exp5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exec">
+				<Option output="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 exec"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exec/fast">
+				<Option output="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 exec/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="extmem">
+				<Option output="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/libextmem.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 extmem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="extmem/fast">
+				<Option output="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/libextmem.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/."/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 extmem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/extmem.c">
+			<Option target="extmem"/>
+		</Unit>
+		<Unit filename="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/extmem.h">
+			<Option target="extmem"/>
+		</Unit>
+		<Unit filename="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/solution.c">
+			<Option target="exec"/>
+		</Unit>
+		<Unit filename="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/utils.h">
+			<Option target="exec"/>
+		</Unit>
+		<Unit filename="/Users/pinskyrobin/OneDrive/CourseMaterials/2021/DB_ex/Exp5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

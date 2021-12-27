@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libextmem.a CMakeFiles/extmem.dir/extmem.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libextmem.a
